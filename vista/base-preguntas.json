@@ -1,0 +1,32 @@
+[
+    {
+        "categoria": "Español",
+        "pregunta": "Cual es la manera correcta de escribir...",
+        "respuesta": "Balon",
+        "incorrecta1": "Balun",
+        "incorrecta2": "Valon",
+        "incorrecta3": "Balom",
+        "video": "https://www.youtube.com/embed/SaUldrEC0bk",
+        "objectFit": "content"
+    },
+    {
+        "categoria": "Español",
+        "pregunta": "Cual es la manera correcta de escribir...",
+        "respuesta": "Moto",
+        "incorrecta1": "Noto",
+        "incorrecta2": "Muto",
+        "incorrecta3": "Motu",
+        "video": "https://www.youtube.com/embed/QvRSRiemD1I",
+        "objectFit": "content"
+    },
+    {
+        "categoria": "Español",
+        "pregunta": "Cual es la manera correcta de escribir...",
+        "respuesta": "Casa",
+        "incorrecta1": "Caza",
+        "incorrecta2": "Kasa",
+        "incorrecta3": "Kaza",
+        "video": "https://www.youtube.com/embed/q93sWZDnEhs",
+        "objectFit": "content"
+    }
+]

@@ -1,0 +1,45 @@
+body{
+      background-image: url("https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg?w=980&h=600&crop=1");
+      background-size: 100%;
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 120%;
+    }
+
+.contenedor {
+    width: 100vw;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;  
+    margin: 5px;
+}
+
+input { 
+    font-size: 20px;
+    background-color: rgb(243, 193, 99);
+    margin: center;
+    border-radius: 10px;
+    padding: 30px 45px;
+    text-decoration: none;
+    display: flex ;
+    flex-direction: column;
+    margin-bottom: 2%
+}
+
+select {
+    font-size: 20px;
+    background-color: rgb(243, 193, 99);
+    margin: center;
+    border-radius: 10px;
+    padding: 30px 45px;
+    width: 100%;
+    margin-bottom: 10%;
+    text-decoration: none; 
+    display: flex ;
+    flex-direction: column;
+}
+
+.env{
+    width: 100%;
+    text-align: center;
+}
