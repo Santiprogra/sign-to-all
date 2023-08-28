@@ -22,7 +22,7 @@ if(isset($_POST['exit'])){
 
     if ($documento) {
         session_destroy();
-        header("Location:Index.php");
+        header("Location:index.php");
     }
 
 }

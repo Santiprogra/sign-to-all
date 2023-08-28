@@ -15,9 +15,9 @@
         $usuario -> agregarusuario($docu,$nome,$apee,$rol,$resultado);
 
         if($usuario){
-            echo "<script type='text/javascript'> alert('usuario registrado ya puedes iniciar sesión');self.location = 'Index.php' ;</script>";
+            echo "<script type='text/javascript'> alert('usuario registrado ya puedes iniciar sesión');self.location = 'index.php' ;</script>";
         } else {
-            echo "<script type='text/javascript'> alert('usuario no registrado');self.location = 'Index.php' ;</script>";
+            echo "<script type='text/javascript'> alert('usuario no registrado');self.location = 'index.php' ;</script>";
 
         }
 

@@ -9,7 +9,7 @@ session_start();
 $documento = $_SESSION['documento'];
 
 if (!$documento) {
-    header("Location: Index.php");
+    header("Location: index.php");
 }
 
 
